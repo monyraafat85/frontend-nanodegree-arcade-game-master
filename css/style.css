@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+.header{
+	text-align: center;
+	text-transform: uppercase;
+	color: red;
+	margin-bottom: -5px;
+}
